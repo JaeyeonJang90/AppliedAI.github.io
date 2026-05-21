@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
- * denotes equal contribution, † denotes corresponding author, underline denotes current and former lab members
+*denotes equal contribution, † denotes corresponding author, underline denotes current and former lab members
 
 * Seungyeol Ryu, Geonwoo Kim, and Jaeyeon Jang†, An adaptive contrastive learning based robust surface defect detection model for noisy datasets, Submitted to Soft Computing.
 * Hyeong Gu Lim, Jaeyoen Jang, Jongkwan Choi, Kyeong Hui Kim, and Chang Ouk Kim†, Fine-tuning double exponentially weighted moving average run-to-run process control method for chemical mechanical polishing using autoencoder, Submitted to Expert Systems.
