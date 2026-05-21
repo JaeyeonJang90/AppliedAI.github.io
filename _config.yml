@@ -239,6 +239,12 @@ collections:
 defaults:
   # _posts
   - scope:
+      path: ""          # 모든 경로의 파일에 적용
+    values:
+      layout: "single"  # 기본 레이아웃 사용
+      author_profile: false # 왼쪽 사이드바 제거
+      classes: "wide"      # 본문 가로폭 확장
+  - scope:
       path: ""
       type: posts
     values:
