@@ -1,5 +1,5 @@
 ---
-layout: archive        # 또는 single
+layout: splash        # 또는 single
 title: "Home"
 permalink: /
 author_profile: false  # 이 부분을 반드시 false로!
