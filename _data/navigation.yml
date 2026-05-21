@@ -14,8 +14,15 @@ main:
   - title: "Publications"
     url: /publications/    
 
+  - title: "Presentations"
+    url: /presentations/   
+
   - title: "Projects"
     url: /projects/    
+
+  - title: "Patents"
+    url: /patents/   
+
     
   # - title: "Portfolio"
   #   url: /portfolio/
