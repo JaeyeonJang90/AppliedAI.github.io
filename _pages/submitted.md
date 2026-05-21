@@ -8,7 +8,7 @@ classes: wide
 
 '*' denotes equal contribution, '†' denotes corresponding author, underline denotes current and former lab members
 
-* <u>Seungyeol Ryu</u>, <u>Geonwoo Kim</u>, and Jaeyeon Jang†, An adaptive contrastive learning based robust surface defect detection model for noisy datasets, Submitted to Soft Computing.
+* <ins>Seungyeol Ryu</ins>, <u>Geonwoo Kim</u>, and Jaeyeon Jang†, An adaptive contrastive learning based robust surface defect detection model for noisy datasets, Submitted to Soft Computing.
 * Hyeong Gu Lim, Jaeyoen Jang, Jongkwan Choi, Kyeong Hui Kim, and Chang Ouk Kim†, Fine-tuning double exponentially weighted moving average run-to-run process control method for chemical mechanical polishing using autoencoder, Submitted to Expert Systems.
 * Young-Ik Kim*, Jeong-Ju Choi*, Jin NamGoong, and  Jaeyeon Jang†, IPA-guided dual transcription for data-centric speech corpus refinement, Submitted to Interspeech.
 * <u>Seungyeol Ryu</u>, Jungwon Seo, and Jaeyeon Jang†, Temporal gating networks for vertical federation of industrial time-series across heterogeneous machines, Submitted to IEEE Internet of Things Journal.
