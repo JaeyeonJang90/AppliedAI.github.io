@@ -6,8 +6,6 @@ author_profile: false  # 이 부분을 반드시 false로!
 classes: wide         # 화면을 넓게 쓰려면 이 줄을 추가하세요
 ---
 
-# Welcome to Applied AI Laboratory
-
 **Applied AI Lab**은 **산업 현장의 복잡한 데이터를 실질적인 지능형 솔루션으로 구현**하는 것을 목표로 합니다. 우리는 이론적 연구를 넘어, 실제 산업 생태계에 변화를 가져오는 **Industrial AI**의 핵심 기술을 탐구합니다.
 
 ---
