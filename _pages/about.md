@@ -1,6 +1,6 @@
 ---
 layout: archive        # 또는 single
-title: "Applied AI Lab"
+title: "Home"
 permalink: /
 author_profile: false  # 이 부분을 반드시 false로!
 classes: wide         # 화면을 넓게 쓰려면 이 줄을 추가하세요
