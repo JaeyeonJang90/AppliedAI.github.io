@@ -17,8 +17,11 @@ classes: wide         # 화면을 넓게 쓰려면 이 줄을 추가하세요
 ### 🛠 Core Technologies
 * **Federated Learning and Inference**: 데이터 프라이버시를 보장하며 분산된 환경에서 협력적으로 지능을 고도화하는 연합 학습 및 추론
 * **Multi-Agent Reinforcement Learning**: 다수의 지능형 에이전트가 협동하여 최적의 의사결정을 내리는 자율 제어 시스템 연구
+* **Reinforcement Learning-based Autonomous Control**: 강화학습을 활용하여 비정형적이고 동적인 산업 환경에서도 정밀하고 유연하게 시스템을 운영하는 지능형 자율 제어 기술
 * **Edge Device Model & Learning**: 하드웨어 제약이 있는 Edge Device에서도 효율적으로 작동하는 경량화 모델 및 온디바이스 학습 기술
-* **Transfer Learning**: 특정 도메인에서 얻은 지식을 새로운 환경에 빠르게 적응시키는 전이학습 및 도메인 적응 기술
+* **Transfer Learning & Domain Adaptation**: 특정 도메인에서 얻은 지식을 새로운 환경에 빠르게 적응시키는 전이학습 및 도메인 적응 기술
+* **Anomaly Detection**: 희소한 이상 패턴이나 미세 결함을 사전에 탐지하는 고신뢰성 이상 탐지 기술
+* **Open Set Recognition**: 학습 단계에서 경험하지 못한 미지의 데이터(Unknowns)를 식별하여 실제 운영 환경에서의 AI 모델 신뢰성을 증대하는 기술
 
 ### 🏢 Application Domains
 우리의 기술은 **제조(Manufacturing), 금융(Finance), 치과(Dental)** 등 정밀한 데이터 분석과 지능화가 필요한 다양한 영역으로 확장되고 있습니다.
