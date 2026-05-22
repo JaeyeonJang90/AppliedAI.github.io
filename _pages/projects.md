@@ -8,17 +8,17 @@ classes: wide
 
 ## 🏃 Ongoing Projects
 
-* **Deep learning–driven business credit evaluation and financial product recommendation via graph neural networks and reinforcement learning** *(Oct 2025 – Dec 2026) | Sponsor: Naver Financial | Role: **PI***
+* **AI 기술을 적용한 신용평가 및 Recommendation 모델 방법 연구** *(2025.10 – 2026.12) | 네이버파이낸셜 | **PI***
 
 ---
 
 ## ✅ Completed Projects
 
-* **AI-based hospital care system development** *(Apr 2024 – Nov 2024) | Sponsor: National Research Foundation of Korea (NRF) | Role: **PI***
-* **Development of a care product recommendation system for enhancing caregiving service quality** *(Jul 2023 – Dec 2023) | Sponsor: National Research Foundation of Korea (NRF) | Role: **PI***
-* **Open Set recognition system development for process intelligence** *(Jun 2022 – Feb 2024) | Sponsor: National Research Foundation of Korea (NRF) | Role: **PI***
-* **Agile manufacturing systems** *(Jun 2021 – Dec 2022) | Sponsor: Intel*
-* **Customer-customized information system development for patients, protectors, caregivers based on big data analysis** *(Sep 2022 – Jan 2023) | Sponsor: National Research Foundation of Korea (NRF) | Role: **PI***
+* **AI 기반의 병원 간병 시스템 개발** *(2024.04 – 2024.11) | 돌봄의신 | **PI***
+* **간병 서비스 품질 증진을 위한 케어 용품 추천 시스템 개발** *(2023.07 – 2023.12) | 돌봄의신 | **PI***
+* **빅데이터 분석을 통한 고객 맞춤형 정보 시스템 구축 (환자-보호자/간병인)** *(2022.09 – 2023.01) | 돌봄의신 | **PI***
+* **공정 지능화를 위한 Open Set Recognition 모델 개발** *(2022.06 – 2024.02) | 한국연구재단 | **PI***
+* **Agile manufacturing systems** *(Jun 2021.06 – 2022.12) | Intel*
 * **AI based laser welding anomaly detection algorithm development** *(May 2022 – Nov 2022) | Sponsor: LG Electronics | Role: **PI***
 * **An intelligent production management system based on artificial intelligence scheduler** *(Jun 2019 – May 2021) | Sponsor: SK Hynix*
 * **Lifetime prediction based optimization modeling for semiconductor sub-component inventory management** *(Sep 2020 – May 2021) | Sponsor: SK Hynix*
