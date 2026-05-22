@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "International Journals"
-permalink: /publications/intl/
+permalink: /publications/international/
 author_profile: false
 classes: wide
 ---
