@@ -6,27 +6,28 @@ author_profile: false
 classes: wide
 ---
 
-## 🏃 Ongoing Projects
+## Ongoing Projects
 
-* **AI 기술을 적용한 신용평가 및 Recommendation 모델 방법 연구** *(2025.10 – 2026.12) | 네이버파이낸셜 | **PI***
+* **AI 기술을 적용한 신용평가 및 Recommendation 모델 방법 연구** (2025.10 – 2026.12), 네이버파이낸셜, **PI**
 
 ---
 
-## ✅ Completed Projects
-하이닉스 과제 넣어라
-* **AI 기반의 병원 간병 시스템 개발** *(2024.04 – 2024.11) | 돌봄의신 | **PI**
-* **간병 서비스 품질 증진을 위한 케어 용품 추천 시스템 개발** *(2023.07 – 2023.12) | 돌봄의신 | **PI***
-* **빅데이터 분석을 통한 고객 맞춤형 정보 시스템 구축 (환자-보호자/간병인)** *(2022.09 – 2023.01) | 돌봄의신 | **PI***
-* **공정 지능화를 위한 Open Set Recognition 모델 개발** *(2022.06 – 2024.02) | 한국연구재단 | **PI***
-* **Agile manufacturing systems** *(Jun 2021.06 – 2022.12) | Intel*
-* **AI based laser welding anomaly detection algorithm development** *(May 2022 – Nov 2022) | Sponsor: LG Electronics | Role: **PI***
-* **An intelligent production management system based on artificial intelligence scheduler** *(Jun 2019 – May 2021) | Sponsor: SK Hynix*
-* **Lifetime prediction based optimization modeling for semiconductor sub-component inventory management** *(Sep 2020 – May 2021) | Sponsor: SK Hynix*
-* **A preliminary study on AI/PHM technique for prediction of engine health condition and diagnosis of aging** *(Jun 2019 – Aug 2020) | Sponsor: National Research Foundation of Korea (NRF)*
-* **Process substrate image location correction and unknown defect detection model development** *(Sep 2019 – Feb 2020) | Sponsor: Korea Shipbuilding & Offshore Engineering*
-* **Machine learning based quality control system in wafer testing** *(Feb 2019 – Jun 2019) | Sponsor: SK Hynix*
-* **Smart thinking factory: Intelligent production management using manufacturing data science** *(Jun 2016 – May 2019) | Sponsor: SK Hynix*
-* **A study on the real-time reassigning technique of guided missile** *(Jun 2016 – Feb 2018) | Sponsor: National Research Foundation of Korea (NRF)*
-* **Deep learning technique development to maximize the performance of detecting various spot defects** *(Mar 2016 – Feb 2017) | Sponsor: Samsung Display*
+## Completed Projects
+* **인공지능 기반 반도체 공정 클러스터 장비의 Schedule 최적화 모델 개발** (2025.02 - 2026.01), SK Hynix
+* **AI 기반의 병원 간병 시스템 개발** (2024.04 – 2024.11), 돌봄의신, **PI**
+* **간병 서비스 품질 증진을 위한 케어 용품 추천 시스템 개발** (2023.07 – 2023.12), 돌봄의신, **PI**
+* **빅데이터 분석을 통한 고객 맞춤형 정보 시스템 구축 (환자-보호자/간병인)** (2022.09 – 2023.01), 돌봄의신, **PI**
+* **공정 지능화를 위한 Open Set Recognition 모델 개발** (2022.06 – 2024.02), 한국연구재단, **PI**
+* **AI 기반 레이저 용접 이상감지 알고리즘 개발** (2022.05 – 2022.11), LG전자
+* **Agile manufacturing systems** (2021.06 – 2022.12), Intel
+* **Lifetime Prediction 기반 Sub-component 재고 관리 최적화 Modeling** (2020.09 – 2021.05), SK Hynix
+* **인공지능 스케줄러 기반 지능형 생산 관리 시스템** (2019.06 – 2021.05), 한국연구재단
+* **공정 기판 이미지 보정 및 신규 불량 탐지 모델 개발** (2019.09 - 2020.02), SK Hynix
+* **엔진 상태 예측 및 Aging 진단을 위한 AI/PHM 기법 타당성 연구** (2019.06 - 2020.08), 한국조선해양
+* **고객불량 Zero를 위한 Machine Learning 예측모형 개발** (2019.02 - 2019.06), SK Hynix
+* **Smart Thinking Factory: 제조 데이터 사이언스를 활용한 지능형 생산관리 기술** (2016.06 - 2019.05), 한국연구재단
+* **유도탄 비행간 표적 실시간 재지정 기술 연구** (2016.06 - 2018.02), 국방과학연구소
+* **다양한 얼룩불량 판별 성능 고도화를 위한 딥러닝 기술개발** (2016.03 - 2017.02), 삼성디스플레이
+
 
 ---
