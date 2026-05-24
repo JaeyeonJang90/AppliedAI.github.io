@@ -13,7 +13,7 @@ main:
       - title: "Professor"
         url: /members/professor/
       - title: "Students"
-        url: /members/student/
+        url: /members/students/
       - title: "Alumni"
         url: /members/alumni/
 
