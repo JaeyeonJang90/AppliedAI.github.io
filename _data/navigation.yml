@@ -15,7 +15,7 @@ main:
       - title: "Students"
         url: /members/student/
       - title: "Alumni"
-        url: /publications/korean/
+        url: /members/alumni/
 
   - title: "Publications"
     children:
