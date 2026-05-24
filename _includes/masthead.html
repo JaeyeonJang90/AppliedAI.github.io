@@ -5,20 +5,16 @@
       {% if site.logo %}
         <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
       {% endif %}
-      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
-      <button class="greedy-nav__toggle hidden" type="button">
-        <span class="visually-hidden">{{ site.data.ui-text[site.locale].toggle_menu | default: "Toggle menu" }}</span>
-        <div class="navicon"></div>
-      </button>
-      <ul class="hidden-links hidden"></ul>
+      <!-- 왼쪽 사이트 타이틀 원래대로 깔끔하게 복구 -->
+      <a class="site-title-custom" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
     </div>
     <nav id="site-nav" class="masthead__menu">
-      <!-- 깨진 스타일을 무조건 가로 정렬로 강제 전환하는 클래스(fixed-nav-row) 적용 -->
-      <ul class="visible-links fixed-nav-row">
+      <!-- 테마 JS(greedy-nav)의 간섭을 완전히 차단하기 위해 고유 클래스명(custom-nav-links) 사용 -->
+      <ul class="custom-nav-links">
         {% for link in site.data.navigation.main %}
           {% if link.children %}
-            <!-- Publications처럼 하위 항목이 있는 대메뉴 -->
-            <li class="masthead__menu-item custom-dropdown-parent">
+            <!-- Publications 등 하위 항목이 있는 메뉴 -->
+            <li class="custom-menu-item custom-dropdown-parent">
               <a class="dropdown-trigger" href="#;">{{ link.title }} <small style="font-size: 0.6em; vertical-align: middle;">▼</small></a>
               <div class="custom-dropdown-box">
                 {% for child in link.children %}
@@ -27,8 +23,8 @@
               </div>
             </li>
           {% else %}
-            <!-- 일반 대메뉴 -->
-            <li class="masthead__menu-item">
+            <!-- Home, Members 등 일반 메뉴 -->
+            <li class="custom-menu-item">
               <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
             </li>
           {% endif %}
@@ -38,16 +34,32 @@
   </div>
 </div>
 
-<!-- 테마 스크립트 에러를 무력화하고 원래 디자인(image_6660dd.png)을 유지하는 절대 Style -->
+<!-- 레이아웃 원상복구 및 드롭다운 안정화 스타일 -->
 <style>
-  /* 1. 데스크탑 환경에서 상단바 메뉴를 무조건 한 줄 가로 정렬로 강제 고정 */
+  /* 데스크탑 환경 고정 스타일 (원래 화면 복구) */
   @media (min-width: 64em) {
+    .masthead__inner-wrap {
+      display: flex !important;
+      justify-content: space-between !important;
+      align-items: center !important;
+      padding: 1rem 2rem !important;
+    }
+    
+    /* 왼쪽 사이트 타이틀 기본 디자인 입히기 */
+    .site-title-custom {
+      color: #333333 !important;
+      font-weight: 700 !important;
+      font-size: 1.25rem !important;
+      text-decoration: none !important;
+    }
+
     .masthead__menu {
       display: block !important;
       float: right !important;
-      clear: none !important;
     }
-    .fixed-nav-row {
+
+    /* 오른쪽 메뉴 가로 정렬 고정 (Home이 누락 없이 첫 번째로 복구됨) */
+    .custom-nav-links {
       display: flex !important;
       flex-direction: row !important;
       align-items: center !important;
@@ -55,30 +67,34 @@
       margin: 0 !important;
       padding: 0 !important;
     }
-    .fixed-nav-row .masthead__menu-item {
+
+    .custom-menu-item {
       display: inline-block !important;
       margin-left: 2rem !important;
-      margin-bottom: 0 !important;
       position: relative !important;
+      padding: 10px 0 !important; /* 마우스 오버 판정 면적 확보 */
     }
-    .fixed-nav-row .masthead__menu-item a {
+
+    .custom-menu-item a {
       color: #495057 !important;
       font-weight: 700 !important;
       text-decoration: none !important;
       font-size: 1.1rem !important;
     }
-    .fixed-nav-row .masthead__menu-item a:hover {
+
+    .custom-menu-item a:hover {
       color: #000000 !important;
     }
 
-    /* 2. 드롭다운 서브 메뉴 레이아웃 설정 */
+    /* 드롭다운 꺼짐 현상 해결 (메뉴 바로 밑에 밀착 고정) */
     .custom-dropdown-parent {
       position: relative !important;
     }
+
     .custom-dropdown-box {
       display: none !important;
       position: absolute !important;
-      top: 100% !important;
+      top: 100% !important; /* 빈 공간(Dead Zone)을 없애 마우스 이동 시 꺼짐 방지 */
       left: 50% !important;
       transform: translateX(-50%) !important;
       background-color: #ffffff !important;
@@ -87,9 +103,10 @@
       border-radius: 6px !important;
       box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05) !important;
       padding: 6px 0 !important;
-      margin-top: 10px !important;
       z-index: 99999 !important;
     }
+
+    /* 상단 작은 말풍선 삼각형 구조 */
     .custom-dropdown-box::before {
       content: '' !important;
       position: absolute !important;
@@ -100,6 +117,7 @@
       border-style: solid !important;
       border-color: transparent transparent #ffffff transparent !important;
     }
+
     .custom-dropdown-box a {
       display: block !important;
       padding: 10px 16px !important;
@@ -111,25 +129,26 @@
       margin: 0 !important;
       white-space: nowrap !important;
     }
+
     .custom-dropdown-box a:hover {
       background-color: #f7fafc !important;
       color: #2b6cb0 !important;
     }
     
-    /* 마우스를 올렸을 때만 서브 메뉴판 노출 */
+    /* 마우스를 올렸을 때 안정적으로 노출 유지 */
     .custom-dropdown-parent:hover .custom-dropdown-box {
       display: block !important;
     }
   }
 
-  /* 3. 모바일/태블릿 환경 스위칭용 안전장치 스타일 */
+  /* 모바일 환경 대응 */
   @media (max-width: 63.99em) {
-    .fixed-nav-row {
+    .custom-nav-links {
       display: flex !important;
       flex-direction: column !important;
       align-items: flex-start !important;
     }
-    .fixed-nav-row .masthead__menu-item {
+    .custom-menu-item {
       margin-left: 0 !important;
       margin-bottom: 0.5rem !important;
     }
