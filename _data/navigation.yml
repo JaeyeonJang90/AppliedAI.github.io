@@ -11,8 +11,17 @@ main:
   - title: "Members"
     url: /members/
 
-  - title: "Publications"
-    url: /publications/    
+- title: "Publications"
+    children:
+      - title: "Submitted Papers"
+        url: /publications/submitted/
+      - title: "International Journals"
+        url: /publications/international/
+      - title: "Korean Journals"
+        url: /publications/korean/
+
+  # - title: "Publications"
+  #   url: /publications/    
 
   # - title: "Submitted"
   #   url: /publications/submitted/
