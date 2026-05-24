@@ -1,0 +1,41 @@
+---
+layout: archive
+title: "Students"
+permalink: /members/student/
+author_profile: false
+classes: wide
+---
+
+
+## Graduate Students
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; margin-bottom: 40px;">
+  <!-- 학생 1 카드 샘플 -->
+  <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">Photo</div>
+    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">홍길동 (Gildong Hong)</h3>
+    <p style="font-size: 0.85rem; color: #718096; margin: 0 0 10px 0;">Ph.D. Student (2025 – Present)</p>
+    <p style="font-size: 0.8rem; margin: 0; color: #4a5568;"><b>Research:</b> Federated Learning, OSR</p>
+  </div>
+</div>
+
+---
+
+## Ubdergraduate Students
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; margin-bottom: 40px;">
+  <!-- 학생 2 카드 샘플 -->
+  <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">Photo</div>
+    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">이몽룡 (Mongryong Lee)</h3>
+    <p style="font-size: 0.85rem; color: #718096; margin: 0 0 10px 0;">M.S. Student (2026 – Present)</p>
+    <p style="font-size: 0.8rem; margin: 0; color: #4a5568;"><b>Research:</b> Reinforcement Learning</p>
+  </div>
+</div>
+
+---
+
+## 💻 Undergraduate Researchers (Interns)
+
+* **성춘향 (Chunhyang Sung)** - 빅데이터분석 전공 (2026.03 – Present)
+* **임꺽정 (Ggeokjeong Im)** - 데이터사이언스학과 (2026.01 – Present)
