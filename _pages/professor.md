@@ -24,14 +24,14 @@ classes: wide
 
 ---
 
-## 🎓 Education
+## Education
 
 * **Ph.D. in Industrial Engineering** — Yonsei University (2021)
 * **B.S. in Industrial Engineering** — Yonsei University (2015)
 
 ---
 
-## 💼 Experience
+## Experience
 
 * **Assistant Professor** — The Catholic University of Korea (2022 – Present)
 * **CTO** — DenComm (2023 – Present, *Concurrently affiliated*)
