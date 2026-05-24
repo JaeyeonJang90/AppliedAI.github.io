@@ -1,4 +1,92 @@
-{% include base_path %}
+<!-- _includes/masthead.html -->
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__brand">
+      {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
+      {% endif %}
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
+      <button class="greedy-nav__toggle hidden" type="button">
+        <span class="visually-hidden">{{ site.data.ui-text[site.locale].toggle_menu | default: "Toggle menu" }}</span>
+        <div class="navicon"></div>
+      </button>
+      <ul class="hidden-links hidden"></ul>
+    </div>
+    <nav id="site-nav" class="masthead__menu">
+      <ul class="visible-links">
+        {% for link in site.data.navigation.main %}
+          {% if link.children %}
+            <!-- 하위 항목(children)이 있는 경우 드롭다운 마크업 적용 -->
+            <li class="masthead__menu-item custom-dropdown">
+              <a class="dropdown-toggle" href="#;">{{ link.title }}</a>
+              <ul class="custom-dropdown-menu">
+                {% for child in link.children %}
+                  <li class="custom-dropdown-item">
+                    <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
+            <!-- 일반 메뉴 항목 -->
+            <li class="masthead__menu-item">
+              <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</div>
+
+<!-- 드롭다운 디자인을 위한 스타일 강제 지정 -->
+<style>
+  @media (min-width: 64em) {
+    .custom-dropdown {
+      position: relative;
+    }
+    .custom-dropdown-menu {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background-color: #ffffff !important;
+      min-width: 180px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+      padding: 4px 0 !important;
+      margin: 0 !important;
+      list-style: none !important;
+      z-index: 9999 !important;
+      border: 1px solid #e2e8f0;
+      border-radius: 4px;
+    }
+    .custom-dropdown-item {
+      margin: 0 !important;
+      padding: 0 !important;
+      display: block !important;
+    }
+    .custom-dropdown-item a {
+      color: #495057 !important;
+      padding: 10px 16px !important;
+      display: block !important;
+      text-align: left !important;
+      font-size: 0.85em !important;
+      font-weight: normal !important;
+      text-decoration: none !important;
+    }
+    .custom-dropdown-item a:hover {
+      background-color: #f8fafc !important;
+      color: #000000 !important;
+    }
+    /* 마우스를 올렸을 때 하위 메뉴판 표시 */
+    .custom-dropdown:hover .custom-dropdown-menu {
+      display: block !important;
+    }
+  }
+</style>
+
+
+<!-- {% include base_path %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -26,4 +114,4 @@
       </nav>
     </div>
   </div>
-</div>
+</div> -->
