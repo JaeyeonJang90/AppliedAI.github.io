@@ -9,7 +9,13 @@
 
 main:
   - title: "Members"
-    url: /members/
+    children:
+      - title: "Professor"
+        url: /members/professor/
+      - title: "Students"
+        url: /members/student/
+      - title: "Alumni"
+        url: /publications/korean/
 
   - title: "Publications"
     children:
