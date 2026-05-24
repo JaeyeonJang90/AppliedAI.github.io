@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Students"
-permalink: /members/student/
+permalink: /members/students/
 author_profile: false
 classes: wide
 ---
