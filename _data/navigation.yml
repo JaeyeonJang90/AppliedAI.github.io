@@ -11,7 +11,7 @@ main:
   - title: "Members"
     url: /members/
 
-- title: "Publications"
+  - title: "Publications"
     children:
       - title: "Submitted Papers"
         url: /publications/submitted/
