@@ -19,6 +19,7 @@ classes: wide
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">조우진 (Gildong Hong)</h3>
     <p style="font-size: 0.85rem; color: #718096; margin: 0 0 10px 0;">Ph.D. Student (2026.3 – Present)</p>
+        <p style="font-size: 0.8rem; margin: 0; color: #4a5568;">메일</p>
   </div>
 </div>
 
