@@ -17,7 +17,7 @@ classes: wide
       Assistant Professor @ Department of Data Science, The Catholic University of Korea
     </p>
     <p style="margin-top: 0; color: #666;">
-      📧 <a href="mailto:jaeyeon.jang@catholic.ac.kr" style="color: #2b6cb0; text-decoration: none;">jaeyeon.jang@catholic.ac.kr</a>
+      <a href="mailto:jaeyeon.jang@catholic.ac.kr" style="color: #2b6cb0; text-decoration: none;">jaeyeon.jang@catholic.ac.kr</a>
     </p>
   </div>
 </div>
