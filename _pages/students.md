@@ -17,7 +17,7 @@ classes: wide
          alt="Woojin Cho" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
-    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">조우진(Gildong Hong)</h3>
+    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">조우진(Cho, Woojin)</h3>
     <p style="font-size: 0.85rem; color: #718096; margin: 0 0 10px 0;">Ph.D. Student (2026.3 – Present)</p>
     <a href="mailto:jaeyeon.jang@catholic.ac.kr" style="color: #2b6cb0; text-decoration: none;">jaeyeon.jang@catholic.ac.kr</a>
   </div>
