@@ -1,16 +1,14 @@
 <!-- _includes/masthead.html -->
 <div class="masthead">
   <div class="masthead__inner-wrap">
-    <!-- <div class="masthead__brand">
+    <div class="masthead__brand">
       {% if site.logo %}
         <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
       {% endif %}
       <!-- 왼쪽 사이트 타이틀 원래대로 깔끔하게 복구 -->
       <a class="site-title-custom" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
-    </div> -->
-    <div class="masthead__brand">
-      <a class="site-title-custom" href="{{ '/' | relative_url }}">Applied AI Lab</a>
     </div>
+
     <nav id="site-nav" class="masthead__menu">
       <!-- 테마 JS(greedy-nav)의 간섭을 완전히 차단하기 위해 고유 클래스명(custom-nav-links) 사용 -->
       <ul class="custom-nav-links">
