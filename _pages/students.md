@@ -31,8 +31,8 @@ classes: wide
   <!-- 학생 2 카드 샘플 -->
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
-      <img src="/assets/images/x.jpg" 
-         alt="Woojin Cho" 
+      <img src="/assets/images/noimage.png" 
+         alt="Noimg" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">민주원(Min, Juwon)</h3>
@@ -41,8 +41,8 @@ classes: wide
 
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
-      <img src="/assets/images/x.jpg" 
-         alt="Woojin Cho" 
+      <img src="/assets/images/noimage.png" 
+         alt="Noimg" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">윤채원(Yun, Chaewon)</h3>
@@ -53,7 +53,7 @@ classes: wide
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
       <img src="/assets/images/joonyoung_yoo.jpg" 
-         alt="Woojin Cho" 
+         alt="Joonyoung Yoo" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">유준영(Yoo, Joon Young)</h3>
@@ -64,7 +64,7 @@ classes: wide
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
       <img src="/assets/images/yoonseo_lee.jpg" 
-         alt="Woojin Cho" 
+         alt="Yoonseo Lee" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">이윤서(Lee, Yoon Seo)</h3>
@@ -74,7 +74,7 @@ classes: wide
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
       <img src="/assets/images/hyunjae_park.jpg" 
-         alt="Woojin Cho" 
+         alt="Park Hyunjae" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">박현재(Park, Hyun Jae)</h3>
@@ -84,7 +84,7 @@ classes: wide
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
       <img src="/assets/images/gyeol_koh.jpg" 
-         alt="Woojin Cho" 
+         alt="Koh Gyeol" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">고결(Koh, Gyeol)</h3>
@@ -93,8 +93,8 @@ classes: wide
 
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
-      <img src="/assets/images/x.jpg" 
-         alt="Woojin Cho" 
+      <img src="/assets/images/noimage.png" 
+         alt="Noimg" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">고준영(-)</h3>
@@ -103,8 +103,8 @@ classes: wide
 
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
-      <img src="/assets/images/x.jpg" 
-         alt="Woojin Cho" 
+      <img src="/assets/images/noimage.png" 
+         alt="Noimg" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">조찬희(-)</h3>
@@ -113,8 +113,8 @@ classes: wide
 
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
-      <img src="/assets/images/x.jpg" 
-         alt="Woojin Cho" 
+      <img src="/assets/images/noimage.png" 
+         alt="Noimg" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">황태영(-)</h3>
@@ -124,7 +124,7 @@ classes: wide
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
       <img src="/assets/images/junoh_eom.jpg" 
-         alt="Woojin Cho" 
+         alt="Eom Junoh" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">엄준오(Eom, Junoh)</h3>
@@ -134,7 +134,7 @@ classes: wide
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
       <img src="/assets/images/hyunjin_hwang.jpg" 
-         alt="Woojin Cho" 
+         alt="Hyunjin Hwang" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">황현진(Hwang, Hyunjin)</h3>
@@ -143,8 +143,8 @@ classes: wide
 
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <div style="width: 100px; height: 120px; background: #edf2f7; margin: 0 auto 10px; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #a0aec0;">
-      <img src="/assets/images/x.jpg" 
-         alt="Woojin Cho" 
+      <img src="/assets/images/noimage.png" 
+         alt="Noimg" 
          style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     </div>
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">지현준(-)</h3>
