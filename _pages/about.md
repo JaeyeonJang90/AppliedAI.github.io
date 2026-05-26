@@ -6,7 +6,7 @@ author_profile: false  # 이 부분을 반드시 false로!
 classes: wide         # 화면을 넓게 쓰려면 이 줄을 추가하세요
 ---
 
-![Applied AI Lab Overview]({{ '/assets/images/logo.png' | relative_url }})
+<img src="{{ '/assets/images/ㅣlogo.png' | relative_url }}" style="width: 100%; height: auto; margin-bottom: 20px; border-radius: 8px;">
 
 <br>
 
