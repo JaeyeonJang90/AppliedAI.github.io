@@ -95,7 +95,7 @@ classes: wide
   </div>
 
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-    <img src="/assets/images/taeyoung_hwang.jpg" 
+    <img src="/assets/images/taeyoung_hwang.jpeg" 
        alt="taeyoung_hwang" 
        style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">황태영(Hwang, Taeyoung)</h3>
@@ -119,7 +119,7 @@ classes: wide
   </div>
 
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-    <img src="/assets/images/hyunjune_ji.jpg" 
+    <img src="/assets/images/hyunjune_ji.jpeg" 
        alt="hyunjune_ji" 
        style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">지현준(Ji, Hyunjune)</h3>
