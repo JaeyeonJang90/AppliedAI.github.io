@@ -50,6 +50,7 @@ classes: wide
     <p style="font-size: 0.85rem; color: #718096; margin: 0 0 10px 0;">2025.02 학사 졸업(서강대학교 전자공학과 석박통합과정)</p>
   </div>
 
+
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
     <img src="/assets/images/noimage.png" 
        alt="Noimg" 
