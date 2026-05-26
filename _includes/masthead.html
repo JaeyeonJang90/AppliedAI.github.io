@@ -143,23 +143,39 @@
     }
   }
 
-  /* 모바일 환경 대응 */
+  /* 모바일 환경 대응 (이 영역만 덮어쓰기) */
   @media (max-width: 63.99em) {
     .custom-nav-links {
       display: flex !important;
       flex-direction: column !important;
       align-items: flex-start !important;
+      width: 100% !important;
     }
     .custom-menu-item {
       margin-left: 0 !important;
       margin-bottom: 0.5rem !important;
+      width: 100% !important;
     }
+    
+    /* 1. 미리 다 뜨는 현상 해결: 평소에는 하위 메뉴 박스를 숨깁니다 */
     .custom-dropdown-box {
-      display: block !important;
-      padding-left: 1rem !important;
+      display: none !important; 
+      padding-left: 1.2rem !important;
+      margin-top: 0.5rem !important;
     }
+
+    /* 2. 터치(호버)했을 때만 하위 메뉴가 아래로 나타나도록 설정 */
+    .custom-dropdown-parent:hover .custom-dropdown-box {
+      display: block !important;
+    }
+
+    /* 3. 글자 뭉침 해결: 자식 링크들을 세로로 한 줄씩 정렬하고 이쁜 색상 부여 */
     .custom-dropdown-box a {
-      padding: 6px 0 !important;
+      display: block !important; /* 세로 정렬 무조건 필수 */
+      padding: 8px 0 !important;
+      color: #6c757d !important; /* 세련된 서브메뉴용 회색 */
+      font-size: 0.95rem !important;
+      font-weight: 500 !important;
     }
   }
 </style>
