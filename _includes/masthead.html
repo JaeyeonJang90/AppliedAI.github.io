@@ -9,7 +9,7 @@
       <a class="site-title-custom" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
     </div>
 
-    <nav id="site-nav" class="masthead__menu">
+    <!-- <nav id="site-nav" class="masthead__menu">
       <!-- 테마 JS(greedy-nav)의 간섭을 완전히 차단하기 위해 고유 클래스명(custom-nav-links) 사용 -->
       <ul class="custom-nav-links">
         {% for link in site.data.navigation.main %}
@@ -31,7 +31,32 @@
           {% endif %}
         {% endfor %}
       </ul>
+    </nav> -->
+
+    <nav id="site-nav" class="masthead__menu">
+      <ul class="custom-nav-links">
+        {% for link in site.data.navigation.main %}
+          {% if link.children %}
+            <li class="custom-menu-item custom-dropdown-parent">
+              <a class="dropdown-trigger" href="javascript:void(0)">
+                {{ link.title }} <span class="arrow">▾</span>
+              </a>
+              <div class="custom-dropdown-box">
+                {% for child in link.children %}
+                  <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+                {% endfor %}
+              </div>
+            </li>
+          {% else %}
+            <li class="custom-menu-item">
+              <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
     </nav>
+
+    
   </div>
 </div>
 
