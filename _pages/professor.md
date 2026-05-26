@@ -28,7 +28,6 @@ classes: wide
 
 * **Ph.D. in Industrial Engineering** — Yonsei University (2021)
 * **B.S. in Industrial Engineering** — Yonsei University (2015)
-* **B.S. in Industrial Engineering** — Yonsei University (2015)
 
 ---
 
