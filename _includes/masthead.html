@@ -8,7 +8,7 @@
       <!-- 왼쪽 사이트 타이틀 원래대로 깔끔하게 복구 -->
       <a class="site-title-custom" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
     </div>
-
+<!-- 
     <nav id="site-nav" class="masthead__menu">
       <!-- 테마 JS(greedy-nav)의 간섭을 완전히 차단하기 위해 고유 클래스명(custom-nav-links) 사용 -->
       <ul class="custom-nav-links">
@@ -31,9 +31,9 @@
           {% endif %}
         {% endfor %}
       </ul>
-    </nav>
+    </nav> -->
 
-    <!-- <nav id="site-nav" class="masthead__menu">
+    <nav id="site-nav" class="masthead__menu">
       <ul class="custom-nav-links">
         {% for link in site.data.navigation.main %}
           {% if link.children %}
@@ -54,7 +54,7 @@
           {% endif %}
         {% endfor %}
       </ul>
-    </nav> -->
+    </nav>
 
     
   </div>
