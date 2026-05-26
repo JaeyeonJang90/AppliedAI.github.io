@@ -1,15 +1,11 @@
 ---
 layout: splash        # 또는 single
-title: "Home"
 permalink: /
 author_profile: false  # 이 부분을 반드시 false로!
 classes: wide         # 화면을 넓게 쓰려면 이 줄을 추가하세요
-header:
-  image: /assets/images/logo.png # <-- 테마 공식 헤더 이미지 설정
 ---
 
-<!-- <img src="{{ '/assets/images/logo.png' | relative_url }}" style="width: 100%; height: auto; display: block; margin: 0 auto 30px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"> -->
-
+<img src="/assets/images/logo.png" style="width: 100%; height: auto; margin-bottom: 20px; border-radius: 8px;">
 **Applied AI Lab**은 **산업 현장의 복잡한 데이터로부터 실질적인 가치를 도출하고, 이를 최적의 지능형 솔루션으로 구현**하는 것을 목표로 합니다. 우리는 이론적 연구를 넘어, 실제 산업 생태계의 문제를 해결하고 변화를 주도하는 **Industrial AI** 핵심 기술을 탐구합니다.
 
 ---
