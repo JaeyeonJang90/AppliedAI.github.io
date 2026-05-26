@@ -29,11 +29,11 @@ classes: wide
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; margin-bottom: 40px;">
   <!-- 학생 2 카드 샘플 -->
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-    <img src="/assets/images/noimage.png" 
-       alt="Noimg" 
+    <img src="/assets/images/juwon_min.jpg" 
+       alt="juwon_min" 
        style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">민주원(Min, Juwon)</h3>
-    <a href="mailto:min.t.one371@gmail.com" style="color: #2b6cb0; text-decoration: none;">min.t.one371@gmail.com</a>
+    <a href="mailto:minjoowon@gmail.com" style="color: #2b6cb0; text-decoration: none;">minjoowon@gmail.com</a>
   </div>
 
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
@@ -79,10 +79,10 @@ classes: wide
   </div>
 
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-    <img src="/assets/images/noimage.png" 
-       alt="Noimg" 
+    <img src="/assets/images/junyoung_ko.png" 
+       alt="junyoung_ko" 
        style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">고준영(-)</h3>
+    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">고준영(Ko, Junyoung)</h3>
     <a href="mailto:kojy1009@catholic.ac.kr" style="color: #2b6cb0; text-decoration: none;">kojy1009@catholic.ac.kr</a>
   </div>
 
@@ -90,7 +90,7 @@ classes: wide
     <img src="/assets/images/noimage.png" 
        alt="Noimg" 
        style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">조찬희(-)</h3>
+    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">조찬희(Jo, Chanhee)</h3>
     <a href="mailto:jch167@naver.com" style="color: #2b6cb0; text-decoration: none;">jch167@naver.com</a>
   </div>
 
@@ -98,7 +98,7 @@ classes: wide
     <img src="/assets/images/noimage.png" 
        alt="Noimg" 
        style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">황태영(-)</h3>
+    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">황태영(Hwang, Taeyoung)</h3>
     <a href="mailto:xodud0627@catholic.ac.kr" style="color: #2b6cb0; text-decoration: none;">xodud0627@catholic.ac.kr</a>
   </div>
 
@@ -119,10 +119,10 @@ classes: wide
   </div>
 
   <div style="border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; text-align: center; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-    <img src="/assets/images/noimage.png" 
-       alt="Noimg" 
+    <img src="/assets/images/hyunjune_ji.jpg" 
+       alt="hyunjune_ji" 
        style="width: 130px; height: 160px; object-fit: cover; margin: 0 auto 15px; border-radius: 6px; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">지현준(-)</h3>
+    <h3 style="margin: 0 0 5px 0; font-size: 1.1rem;">지현준(Ji, Hyunjune)</h3>
     <a href="mailto:hyunjuneji@gmail.com" style="color: #2b6cb0; text-decoration: none;">hyunjuneji@gmail.com</a>
   </div>
 </div>
