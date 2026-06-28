@@ -24,6 +24,8 @@ main:
         url: /publications/submitted/
       - title: "International Journals"
         url: /publications/international/
+      - title: "Peer-Reviewed Proceedings"
+        url: /publications/proc/
       - title: "Korean Journals"
         url: /publications/korean/
 
