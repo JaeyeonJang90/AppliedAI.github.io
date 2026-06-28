@@ -8,6 +8,7 @@ classes: wide
 
 \* denotes equal contribution, † denotes corresponding author
 
+* Hyeong Gu Lim, Jaeyoen Jang, Jongkwan Choi, Kyeong Hui Kim, and Chang Ouk Kim†, Fine-tuning double exponentially weighted moving average run-to-run process control method for chemical mechanical polishing using autoencoder, To appear in Expert Systems, 2026
 * Daeyeol Yang, Jaeyeon Jang†, and Chang Ouk Kim†, Classifying mixed-defect from single-defect training in imbalanced wafer maps via diffusion and attention, Expert Systems with Applications, 299, B, 130127, 2026.
 * Jaeyeon Jang†, Diego Klabjan, Han Liu, Nital S. Patel, Xiuqi Li, Balakrishnan Ananthanarayanan, Husam Dauod, and Tzung-Han Juang, Scalable multi-agent reinforcement learning for factory-wide dynamic scheduling in semiconductor manufacturing, Engineering Applications of Artificial Intelligence, 161, B, 112168, 2025.
 * Jaeyeon Jang†, Young-Ik Kim, and Hyeonseong Lee, Adaptive teaching with shared classifier for knowledge distillation, Neurocomputing, 655, 131343, 2025.
