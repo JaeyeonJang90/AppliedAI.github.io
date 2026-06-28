@@ -9,11 +9,11 @@ classes: wide
 \* denotes equal contribution, † denotes corresponding author
 
 **International Conferences**
-
 * Jaeyeon Jang, Daeyeol Yang, and Chang Ouk Kim†, A conditional system health index based prognostics and health management method for uncertainty management, In INFORMS International Conference, 2019.
 
 **Korean Conferences**
-
+* 심재현\*, 박현재\*, 구지성\*, 전서운\*, 장재연†, Quantization-aware vocabulary pruning for efficient LLM inference, 대한산업공학회/한국경영과학회/한국시뮬레이션학회 춘계공동학술대회, 2026.
+* 박현재, 엄준오, 장재연†, Missing/Cross Modality 환경의 프로토타입 기반 멀티모달 연합학습, 대한산업공학회/한국경영과학회/한국시뮬레이션학회 춘계공동학술대회, 2026.
 * 윤채원\*, 김현이\*, 장재연†, Online cross-task knowledge distillation: Transferring target tasks and dynamically balancing loss under low-resource labeled data settings, 대한산업공학회/한국경영과학회/한국시뮬레이션학회 춘계공동학술대회, 2025.
 * 이윤서\*, 유준영\*, 장재연†, MissGBM: 결측치에 강건한 Gradient Boosting 모델, 대한산업공학회/한국경영과학회/한국시뮬레이션학회 춘계공동학술대회, 2025.
 * 양대열, 김창욱†, 장재연, Classifying mixed-defect from class-imbalanced single-defect in wafer bin maps using class-mixing diffusion model with prompt-wise attention score similarity, 대한산업공학회/한국경영과학회/한국시뮬레이션학회 춘계공동학술대회, 2025.
