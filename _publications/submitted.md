@@ -16,3 +16,4 @@ classes: wide
 * Hyeoni Kim\*, Chaewon Yun\*, and Jaeyeon Jang†, Online cross-task knowledge distillation with a task-adaptive teacher for low-resource tasks.
 * Chaewon Yun\*, Jiho Mun\*, and Jaeyeon Jang†, Multimodal prototype-energy learning for few-shot open-set recognition in zero-day attack detection.
 * Sungkyu Jung and Jaeyeon Jang†, Synergizing feature pyramid truncation and decoupled attention for real-time small UAV detection.
+* Soonjae Kwon, Gyeol Koh, and Jaeyeon Jang†, Customer-adaptive variable-pair selection and temporal cross-attention for credit card default prediction
