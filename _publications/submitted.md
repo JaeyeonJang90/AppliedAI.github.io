@@ -8,7 +8,6 @@ classes: wide
 
 \* denotes equal contribution, † denotes corresponding author
 
-* Seungyeol Ryu, Geonwoo Kim, and Jaeyeon Jang†, An adaptive contrastive learning based robust surface defect detection model for noisy datasets.
 * Seungyeol Ryu, Jungwon Seo, and Jaeyeon Jang†, Temporal gating networks for vertical federation of industrial time-series across heterogeneous machines.
 * Jongkwan Choi, Jaeyeon Jang, Jeonghwan Kim, and Chang Ouk Kim†, Self-tuning action masking with adaptive reliability threshold (SMART) for reinforcement learning-based semiconductor cluster tool scheduling.
 * Jungwon Seo,  Ferhat Ozgur Catak, Chunming Rong, and Jaeyeon Jang†, Federated inference: Toward privacy-preserving collaborative and incentivized model serving.
