@@ -19,25 +19,7 @@ main:
 
  
   - title: "Publications"
-    children:
-      - title: "Submitted Papers"
-        url: /publications/submitted/
-      - title: "International Journals"
-        url: /publications/international/
-      - title: "Peer-Reviewed Proceedings"
-        url: /publications/proc/
-      - title: "Korean Journals"
-        url: /publications/korean/
-
-  # - title: "Publications"
-  #   url: /publications/    
-
-  # - title: "Submitted"
-  #   url: /publications/submitted/
-  # - title: "International Journals"
-  #   url: /publications/international/
-  # - title: "Korean Journals"
-  #   url: /publications/korean/
+    url: /publications/
 
   - title: "Presentations"
     url: /presentations/   
