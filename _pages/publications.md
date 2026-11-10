@@ -30,8 +30,8 @@ A full list is also available on [Google Scholar](https://scholar.google.com/cit
 
 ## 2026
 
-* **\[C1\]** Young-Ik Kim\*, Jeong-Ju Choi\*, Jin NamGoong, and Jaeyeon Jang†, IPA-guided dual transcription for data-centric speech corpus refinement, Interspeech, Sydney, Australia 2026.
 * **\[J29\]** Seungyeol Ryu, Geonwoo Kim, and Jaeyeon Jang†, An adaptive contrastive learning based robust surface defect detection model for noisy datasets, To appear in IEEE Access, 2026.
+* **\[C1\]** Young-Ik Kim\*, Jeong-Ju Choi\*, Jin NamGoong, and Jaeyeon Jang†, IPA-guided dual transcription for data-centric speech corpus refinement, Interspeech, Sydney, Australia 2026.
 * **\[J28\]** Hyeong Gu Lim, Jaeyeon Jang, Jongkwan Choi, Kyeong Hui Kim, and Chang Ouk Kim†, Fine-tuning double exponentially weighted moving average run-to-run process control method for chemical mechanical polishing using autoencoder, Expert Systems, 43(7), e70325, 2026.
 * **\[J27\]** Daeyeol Yang, Jaeyeon Jang†, and Chang Ouk Kim†, Classifying mixed-defect from single-defect training in imbalanced wafer maps via diffusion and attention, Expert Systems with Applications, 299, B, 130127, 2026.
 
