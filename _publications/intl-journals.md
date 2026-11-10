@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "International Journals"
+title: "Peer-Reviewed Publications"
 permalink: /publications/international/
 author_profile: false
 classes: wide
